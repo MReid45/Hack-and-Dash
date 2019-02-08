@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - MovingPlatform
+  - Grapple
+  - PlayerScore
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Rope
+  - Player
+  - Pivot
+  - Background
+  - Sparks
+  - MovPlatLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 969455119
+    locked: 0
+  - name: Platforms
+    uniqueID: 942024801
+    locked: 0
+  - name: Arrow
+    uniqueID: 1399772635
+    locked: 0
+  - name: Ground
+    uniqueID: 994472717
+    locked: 0
+  - name: Tutorial
+    uniqueID: 3695456167
+    locked: 0
+  - name: Player
+    uniqueID: 971615081
+    locked: 0
+  - name: Coin
+    uniqueID: 1714670601
+    locked: 0
+  - name: Death
+    uniqueID: 1612820131
+    locked: 0
